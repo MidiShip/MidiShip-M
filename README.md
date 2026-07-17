@@ -1,12 +1,8 @@
 Firmware Update:
-
-    Open the web interface and click Firmware Update.
-
-    On the page that appears, select the downloaded firmware file (.bin extension).
-
-    Click Upload – the update process will start automatically.
-
-    Wait for the progress bar to complete. The controller will reboot with the new firmware.
+1.  Open the web interface and click Firmware Update.
+2. On the page that appears, select the downloaded firmware file (.bin extension).
+3. Click Upload – the update process will start automatically.
+4. Wait for the progress bar to complete. The controller will reboot with the new firmware.
 
 ⚠️ Important: Do not turn off the power or disconnect the USB cable while the update is in progress!
 
