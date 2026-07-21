@@ -1,6 +1,6 @@
 🇬🇧 English
 
-MidiShip-M is a professional motorized MIDI controller with four 100 mm touch-sensitive faders, an encoder with button, OLED display, and built‑in Wi‑Fi.
+The only controller on the market that allows motorized faders to automatically follow MIDI CC messages without using third-party software. Works in any DAW that supports MIDI CC.
 
 Designed for musicians, producers, and studio engineers, it brings tactile control to your DAW with two main protocols:
 
