@@ -25,6 +25,8 @@ Key Features
     Service Menu – fine‑tune motor parameters, reset presets, reset Wi‑Fi, enable/disable motors globally, control Identity Reply.
 
 Perfect for studio production, live performance, and DAW control.
+
+
 Firmware Update
 
     Open the web interface and click Firmware Update.
@@ -70,6 +72,8 @@ MidiShip-M — профессиональный моторизированный
     Сервисное меню – тонкая настройка моторов, сброс пресетов, сброс Wi‑Fi, глобальное отключение моторов, управление Identity Reply.
 
 Идеально для студийной работы, живых выступлений и управления DAW.
+
+
 Обновление прошивки
 
     Зайдите на страницу управления, нажмите Firmware Update.
