@@ -28,7 +28,9 @@ Firmware Update:
 3. The update process will start automatically.
 4. Wait for the progress bar to complete. The controller will reboot with the new firmware.
 
-⚠️ Important: Do not turn off the power or disconnect the USB cable while the update is in progress!
+⚠️ Important: 
+   Ensure a stable connection to your access point. 
+   Do not power off or disconnect USB during the update!
 
 Обновление прошивки:
 1. Зайдите на страницу управления, нажмите Firmware Update.
@@ -36,4 +38,6 @@ Firmware Update:
 3. Начнётся автоматическая прошивка.
 4. Дождитесь завершения (индикатор прогресса). Контроллер перезагрузится с новой прошивкой.
    
-⚠️ Важно: не выключайте питание и не отключайте USB во время обновления!
+⚠️ Важно: 
+   у вас должна быть стабильная связь с вашей точкой доступа,
+	не выключайте питание и не отключайте USB во время обновления! 
