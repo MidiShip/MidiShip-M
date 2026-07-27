@@ -15,6 +15,7 @@ This project uses the **ESP32 Arduino Core** and **WebSocketsServer** libraries,
 
 ### 1. Get the source code of the LGPL libraries
 
+```bash
 git clone https://github.com/espressif/arduino-esp32.git
 git clone https://github.com/Links2004/arduinoWebSockets.git
 
